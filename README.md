@@ -6,6 +6,8 @@ Community source snapshot of a modified OneROM USB system plugin, shared by Rapi
 
 ## Download and build status
 
+> **Microsoft Edge download notice:** Edge may show a warning or block a download from this repository. If the page or download is unavailable in Edge, you can also open the official GitHub page in Firefox or Chrome. If your browser or antivirus flags a file as malware, please report the exact warning and the file name or release version so I can investigate.
+
 Use GitHub's **Code → Download ZIP** for the full repository, or download the source snapshot from Releases. The plugin directory is named `Moates_usb_emu_Switchable_UART`.
 
 This publication preserves the supplied plugin v0.2.0 source. It is **not** the separately migrated OneROM v0.8.0 package. No compiled firmware or Windows application is supplied here. This snapshot has not been rebuilt or tested on hardware as part of publication.
