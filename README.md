@@ -28,3 +28,7 @@ Original code, source headers, build scripts, changelog and documentation are re
 ## Licence
 
 The supplied plugin source identifies itself as MIT-licensed. Existing copyright notices remain with their respective holders. See LICENSE, ATTRIBUTION.md and licenses/ for the terms and dependency notices. No exclusive or proprietary ownership claim is added by this publication.
+
+## Support
+
+For help with this software, email [Rapid Fire Software Support](mailto:support@rapidfiresoftware.net). Include the software version, what you were trying to do, and any error message you saw.
