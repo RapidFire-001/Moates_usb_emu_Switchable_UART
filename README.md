@@ -1,5 +1,7 @@
 # Moates USB EMU Switchable UART
 
+Unofficial OneROM USB system plugin source for Ostrich-compatible serial access, switchable UART and ALDL profiles, and address tracing.
+
 Community source snapshot of a modified OneROM USB system plugin, shared by Rapidfire. Features in the supplied source include Ostrich-compatible serial access, selectable UART/ALDL profiles and address tracing.
 
 **Unofficial compatibility project. Not an official Moates product, endorsement, or Moates firmware release.** This is OneROM plugin source, not firmware for flashing an original Moates Ostrich device.
